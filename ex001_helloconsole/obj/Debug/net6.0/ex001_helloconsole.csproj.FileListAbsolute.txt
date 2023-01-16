@@ -1,0 +1,15 @@
+D:\Python\C#\Examples\ex001_helloconsole\bin\Debug\net6.0\ex001_helloconsole.exe
+D:\Python\C#\Examples\ex001_helloconsole\bin\Debug\net6.0\ex001_helloconsole.deps.json
+D:\Python\C#\Examples\ex001_helloconsole\bin\Debug\net6.0\ex001_helloconsole.runtimeconfig.json
+D:\Python\C#\Examples\ex001_helloconsole\bin\Debug\net6.0\ex001_helloconsole.dll
+D:\Python\C#\Examples\ex001_helloconsole\bin\Debug\net6.0\ex001_helloconsole.pdb
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.csproj.AssemblyReference.cache
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.AssemblyInfoInputs.cache
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.AssemblyInfo.cs
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.csproj.CoreCompileInputs.cache
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.dll
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\refint\ex001_helloconsole.dll
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.pdb
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ex001_helloconsole.genruntimeconfig.cache
+D:\Python\C#\Examples\ex001_helloconsole\obj\Debug\net6.0\ref\ex001_helloconsole.dll
