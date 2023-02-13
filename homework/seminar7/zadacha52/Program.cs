@@ -25,7 +25,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 double[,] col = new double[m, n];
 FillPrintArray(col);
 System.Console.WriteLine();
-for (int j = 0; j < col.GetLength(1); j++)                  // цикл для нахождения и распечатки среднего арифметоческого элементов по столбцам  
+for (int j = 0; j < col.GetLength(1); j++)                 
 {
     double sum = 0;
     for (int i = 0; i < col.GetLength(0); i++)
